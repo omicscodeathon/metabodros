@@ -1,2 +1,2 @@
 # metabodros
-Metabolite Profile of Drosophila Fed Manipulated Natural Diet
+Metabolite Profile of Drosophila Fed with Manipulated Natural Diet
