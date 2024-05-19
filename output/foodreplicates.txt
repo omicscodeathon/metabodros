@@ -1,0 +1,5 @@
+F_PAT(`BinBase name`  F1_PAT F2_PAT F3_PAT normF1_PAT normF2_PAT normF3_PAT)
+F_PF
+F_PAC
+F_PACT
+F_SACT
